@@ -1,6 +1,6 @@
 package types
 
-// Money for dirams, sents, kopeyks
+// Money for dirams, sents, kopeyks 
 type Money int64
 
 // Category describes payment category
